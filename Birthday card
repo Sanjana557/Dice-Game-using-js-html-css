@@ -1,0 +1,19 @@
+.....
+.....
+
+<h1>Its my Birthday!</h1>
+<h2>On 11th January</h2>
+<img src="https://raw.githubusercontent.com/appbrewery/webdev/main/birthday-cake3.4.jpeg" alt="a purple birthday cake" />
+<h3>What to bring</h3>
+<ul>
+    <li>Cake</li>
+    <li>Gifts</li>
+    <li>chocolates</li>
+    <li>Money</li>
+</ul>
+<h3>Thus is where you need to come</h3>
+<!-- Example Google Maps Link -->
+<li><a href="https://www.google.com/maps/place/8J7Q%2B3Q7,+Challakere,+Karnataka/@14.3126625,76.636847,17z/data=!3m1!4b1!4m5!3m4!1s0x3bb0bd2c096fae9f:0x6497e5429a16cef8!8m2!3d14.3126625!4d76.6394219?entry=ttu&g_ep=EgoyMDI0MTExMi4wIKXMDSoASAFQAw%3D%3D">Google maps</a></li>
+
+......
+......
